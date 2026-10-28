@@ -1,6 +1,6 @@
 {
   "backend_base": "https://api.quickplay.my.id",
-  "sign_key_hex": "8faf0c11d727b5b19551df4d0b6db9a80d883f1c9e8fbcb77b86e38630d911b4",
+  "sign_key_hex": "34f71687c9e846a34d79f36af0882b829aa038eaf50a4df5a27f293211652caf",
   "note": "QPWatch remote config. Edit backend_base / sign_key_hex to patch the app without reinstalling the APK.",
   "updated_at": "2026-10-27"
 }
