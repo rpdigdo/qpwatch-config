@@ -1,10 +1,10 @@
 {
-  "backend_base": "https://api.quickplay.my.id",
+  "backend_base": "https://api1.vorta.tech",
   "sign_key_hex": "34f71687c9e846a34d79f36af0882b829aa038eaf50a4df5a27f293211652caf",
   "note": "QPWatch remote config. Edit backend_base / sign_key_hex to patch the app without reinstalling the APK.",
   "updated_at": "2026-10-28",
   "fallback_bases": [
-    "https://api1.vorta.tech",
-    "https://api.vorta.tech"
+    "https://api.vorta.tech",
+    "https://api.quickplay.my.id"
   ]
 }
